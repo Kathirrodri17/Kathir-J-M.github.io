@@ -57,7 +57,7 @@ The model provided reasonable sales predictions with some room for improvement, 
 #### For a more indepth breakdown check out my [Github Page](https://github.com/Kathirrodri17/Portfolio-Projects/edit/main/Bigmart%20sales%20prediction/README.md)
 
 ## Project 2: COVID-19 Exploratory Data Analysis  
-[Dash Board Link](https://public.tableau.com/views/Covidproject_17226240422510/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Dash Board Link](https://public.tableau.com/views/Covidproject_17226240422510/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![](assets/Dashboard.PNG)
 This project involves an in-depth exploratory data analysis (EDA) of COVID-19 data using SQL, Excel, and Tableau. The goal was to analyze extensive datasets from multiple countries, clean and prepare the data, and create a comprehensive dashboard to summarize key insights.
 
