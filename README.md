@@ -1,4 +1,3 @@
-# Researcher | Data Analyst | Buisness Analyst
 ## Education
 ### MASTER OF ARTS IN ECONOMICS – Bharathiar University – Coimbatore
 #### Majors: Econometrics, Research methodology, Quantitative methods, Operational research
