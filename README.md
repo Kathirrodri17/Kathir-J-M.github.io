@@ -1,7 +1,14 @@
 # Welcome to My Data Analysis Portfolio
 
 Hello and welcome to my Portfolio! I’m Kathir, Mater's degree Gradute in Economics and a Data analyst with a passion for turning raw data into meaningful insights. This Page showcases a collection of projects that highlight my expertise in data manipulation, statistical analysis, and visualization.
-
+## Contents
+- [About This Portfolio](#about-this-portfolio)
+- [Key Technologies](#key-technologies)
+- [Project 1: Big Mart Sales Prediction](#project-1-big-mart-sales-prediction)
+- [Project 2: COVID-19 Exploratory Data Analysis](#project-2-covid-19-exploratory-data-analysis)
+- [Project 3: EPL Match Winner Prediction for 2024-25 Season](#project-3-epl-match-winner-prediction-for-2024-25-season)
+- [Project 4: Sales Insights for a Computer Hardware Manufacturer](#project-4-sales-insights-for-a-computer-hardware-manufacturer)
+- [Contact](#contact)
 ## About This Portfolio
 
 In this Portfolio, you’ll find a range of projects demonstrating my skills in various aspects of data analysis:
@@ -45,7 +52,8 @@ The model provided reasonable sales predictions with some room for improvement, 
 
 #### For a more indepth breakdown check out my [Github Page](https://github.com/Kathirrodri17/Portfolio-Projects/edit/main/Bigmart%20sales%20prediction/README.md)
 
-## Project 2: COVID-19 Exploratory Data Analysis [Dash Board Link](https://public.tableau.com/views/Covidproject_17226240422510/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## Project 2: COVID-19 Exploratory Data Analysis  
+[Dash Board Link](https://public.tableau.com/views/Covidproject_17226240422510/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![](assets/Dashboard.PNG)
 This project involves an in-depth exploratory data analysis (EDA) of COVID-19 data using SQL, Excel, and Tableau. The goal was to analyze extensive datasets from multiple countries, clean and prepare the data, and create a comprehensive dashboard to summarize key insights.
 
@@ -203,6 +211,7 @@ Performance Insights: Identified sales trends and key performance indicators (KP
 Profit Analysis: Analyzed profitability across different product lines and regions.
 Conclusion
 This project successfully addressed the challenge of unlocking hidden sales insights for a computer hardware manufacturer. By leveraging SQL for in-depth data analysis, Power Query for data transformation, and Power BI for data modeling and visualization, the sales team gained access to a comprehensive dashboard that enables informed, data-driven decisions. The integration of these tools not only streamlined the analysis process but also provided valuable insights that were previously inaccessible, ultimately contributing to better strategic planning and improved business outcomes.
+Indepth project breakdown on![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/README.md)
 
 ## Contact
 
