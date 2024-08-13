@@ -23,8 +23,12 @@ I use a variety of tools and technologies in my data analysis work, including:
 - **SQL:** Data extraction and manipulation
 - **Excel:** Advanced formulas, pivot tables, and data visualization
 - **Tableau/Power BI:** Interactive dashboards and data visualizations
-# Project 1: Big Mart Sales Prediction
-[assets/sales-forecasting-metrics-1024x768.jpg]
+
+  
+## Project 1: Big Mart Sales Prediction
+[](assets/sales-forecasting-metrics-1024x768.jpg)
+
+
 This project aims to build a machine learning model to forecast sales for various products across different Big Mart outlets. The retail industry often faces challenges in predicting sales due to the vast array of products and the diverse characteristics of stores. Accurate sales predictions can help businesses manage inventory, optimize supply chain processes, and improve customer satisfaction by ensuring product availability.
 
 This project utilizes a dataset provided by Kaggle, which includes information about products, such as item weight, visibility, type, and maximum retail price (MRP), as well as details about the outlets, like their size, location, and establishment year. The primary goal is to predict the `[Item_Outlet_Sales]`, which is the sales of the products at the respective outlets.
