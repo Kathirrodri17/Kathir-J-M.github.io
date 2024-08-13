@@ -86,7 +86,7 @@ Performed exploratory data analysis of global COVID-19 data to uncover key insig
 ## Conclusion
 This project provides a comprehensive exploratory data analysis of COVID-19, offering valuable insights into global and regional impacts, including infection rates, mortality, and vaccination coverage. The interactive Tableau dashboard visualizes these findings, serving as a tool for understanding the pandemic's effects and supporting informed public health decisions.
 
-For an interactive exploration of the data, visit the COVID-19 Dashboard.
+For an interactive exploration of the data, visit the COVID-19 Dashboard. To get to know the code and depth of the process check ![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Covid19%20EDA%20%20Project/README.md)
 
 ## Project 3: EPL Match Winner Prediction for 2024-25 Season
 ![](assets/skysports-premier-league-predictions_6009362.jpg)
@@ -145,7 +145,64 @@ Final Results:
 ## Acknowledgements
 - Special thanks to FBref for providing the dataset.
 - Appreciation to the Scikit-Learn community for their invaluable machine learning tools.
+#### For more detailed breakdown checkout  ![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Premier%20League%20winner%20predicting%20ML%20model/README.md)
 
+## Project 4: Sales Insights for a Computer Hardware Manufacturer
+![](assets/R9Ot8oz3NlU3g4jXiteOVOGypw.avif)
+
+## Project Overview
+This project focused on uncovering critical sales insights to support a computer hardware manufacturer's decision-making process. The sales team struggled to access actionable data, so the goal was to provide a clear, data-driven view of their sales performance.
+
+## Technologies Used
+- **SQL:** For data exploration and analysis.
+- **Power Query:** For data transformation and normalization.
+- **Power BI:** For data visualization and dashboard creation.
+
+## Key Components
+
+### 1. Data Analysis Using SQL
+Conducted exploratory data analysis (EDA) to extract valuable insights from the sales data. Key SQL queries included:
+
+- Extracting customer records and transactions for specific markets.
+- Analyzing sales trends by currency and year.
+- Calculating total revenue by year, month, and market.
+
+**Example SQL Queries:**
+```sql
+-- Show all customer records
+SELECT * FROM customers;
+
+-- Show total revenue in Chennai in 2020
+SELECT SUM(transactions.sales_amount) 
+FROM transactions 
+INNER JOIN date 
+ON transactions.order_date = date.date 
+WHERE date.year = 2020 AND transactions.market_code = 'Mark001';
+```
+### 2. Data Transformation with Power Query
+Transformed and normalized the data to ensure consistency, enabling accurate analysis. A custom formula was applied to convert all sales amounts to a single currency.
+
+Custom Formula:
+```= Table.AddColumn(#"Filtered Rows", "normalised_amount", each if [currency] = "USD" or [currency] = "USD#(cr)" then [sales_amount] * 75 else [sales_amount])```
+
+### 3. Dashboard Creation with Power BI
+Established relationships between tables in Power BI to enable seamless analysis across multiple data sources. Developed an interactive dashboard that visualizes sales performance across different dimensions, empowering the sales team to make informed decisions.
+#### Key Insights
+![](assets/key-insights.PNG)
+
+#### Performance Insights
+![](assets/performance-insights.PNG)
+
+#### Profit Analysis
+![](assets/Profit-Analysis.PNG)
+
+
+### 4. Key Insights
+
+Performance Insights: Identified sales trends and key performance indicators (KPIs) across different markets and currencies.
+Profit Analysis: Analyzed profitability across different product lines and regions.
+Conclusion
+This project successfully addressed the challenge of unlocking hidden sales insights for a computer hardware manufacturer. By leveraging SQL for in-depth data analysis, Power Query for data transformation, and Power BI for data modeling and visualization, the sales team gained access to a comprehensive dashboard that enables informed, data-driven decisions. The integration of these tools not only streamlined the analysis process but also provided valuable insights that were previously inaccessible, ultimately contributing to better strategic planning and improved business outcomes.
 
 ## Contact
 
@@ -156,5 +213,5 @@ Thank you for visiting my portfolio. I hope you find the projects interesting an
 ---
 
 J.M.Kathir  
-[LinkedIn](https://www.linkedin.com/in/kathir-jm/) |  kathirrodriguez@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kathir-jm/) |  [kathirrodriguez@gmail,com](kathirrodriguez@gmail.com) | [Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/README.md)
 
