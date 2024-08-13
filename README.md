@@ -13,7 +13,7 @@ Hello and welcome to my Portfolio! I’m Kathir, Mater's degree Gradute in Econo
 - [Contact](#contact)
 
 
-## About This Portfolio
+### About This Portfolio
 
 In this Portfolio, you’ll find a range of projects demonstrating my skills in various aspects of data analysis:
 
