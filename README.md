@@ -98,7 +98,7 @@ Performed exploratory data analysis of global COVID-19 data to uncover key insig
 ## Conclusion
 This project provides a comprehensive exploratory data analysis of COVID-19, offering valuable insights into global and regional impacts, including infection rates, mortality, and vaccination coverage. The interactive Tableau dashboard visualizes these findings, serving as a tool for understanding the pandemic's effects and supporting informed public health decisions.
 
-For an interactive exploration of the data, visit the COVID-19 Dashboard. To get to know the code and depth of the process check ![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Covid19%20EDA%20%20Project/README.md)
+For an interactive exploration of the data, visit the COVID-19 Dashboard. To get to know the code and depth of the process check [Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Covid19%20EDA%20%20Project/README.md)
 
 ## Project 3: EPL Match Winner Prediction for 2024-25 Season
 ![](assets/skysports-premier-league-predictions_6009362.jpg)
@@ -157,7 +157,7 @@ Final Results:
 ## Acknowledgements
 - Special thanks to FBref for providing the dataset.
 - Appreciation to the Scikit-Learn community for their invaluable machine learning tools.
-#### For more detailed breakdown checkout  ![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Premier%20League%20winner%20predicting%20ML%20model/README.md)
+#### For more detailed breakdown checkout  [Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/Premier%20League%20winner%20predicting%20ML%20model/README.md)
 
 ## Project 4: Sales Insights for a Computer Hardware Manufacturer
 ![](assets/R9Ot8oz3NlU3g4jXiteOVOGypw.avif)
@@ -215,7 +215,7 @@ Performance Insights: Identified sales trends and key performance indicators (KP
 Profit Analysis: Analyzed profitability across different product lines and regions.
 Conclusion
 This project successfully addressed the challenge of unlocking hidden sales insights for a computer hardware manufacturer. By leveraging SQL for in-depth data analysis, Power Query for data transformation, and Power BI for data modeling and visualization, the sales team gained access to a comprehensive dashboard that enables informed, data-driven decisions. The integration of these tools not only streamlined the analysis process but also provided valuable insights that were previously inaccessible, ultimately contributing to better strategic planning and improved business outcomes.
-Indepth project breakdown on![Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/README.md)
+#### Indepth project breakdown on [Github](https://github.com/Kathirrodri17/Portfolio-Projects/blob/main/README.md)
 
 ## Contact
 
