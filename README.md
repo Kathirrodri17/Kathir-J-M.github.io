@@ -29,9 +29,25 @@ I use a variety of tools and technologies in my data analysis work, including:
 ![](assets/sales-forecasting-metrics-1024x768.jpg)
 
 
-This project aims to build a machine learning model to forecast sales for various products across different Big Mart outlets. The retail industry often faces challenges in predicting sales due to the vast array of products and the diverse characteristics of stores. Accurate sales predictions can help businesses manage inventory, optimize supply chain processes, and improve customer satisfaction by ensuring product availability.
+# Big Mart Sales Prediction
 
-This project utilizes a dataset provided by Kaggle, which includes information about products, such as item weight, visibility, type, and maximum retail price (MRP), as well as details about the outlets, like their size, location, and establishment year. The primary goal is to predict the `[Item_Outlet_Sales]`, which is the sales of the products at the respective outlets.
+This project aims to build a machine learning model to forecast sales for various products across different Big Mart outlets. Accurate sales predictions can help businesses manage inventory, optimize supply chain processes, and improve customer satisfaction by ensuring product availability.
+
+## Project Overview
+Developed a machine learning model to predict sales for various products across Big Mart outlets, using XGBoost Regressor to address challenges in the retail industry such as inventory management and supply chain optimization.
+
+## Dataset
+Utilized Kaggle's Big Mart Sales dataset, which includes product and outlet details such as item weight, visibility, type, MRP, outlet size, location, and establishment year.
+
+## Key Steps
+- **Data Collection & Processing:** Loaded the dataset into a Pandas DataFrame for initial analysis.
+- **Exploratory Data Analysis:** Conducted EDA using Pandas and Seaborn to check for missing values, and understand numerical and categorical features.
+- **Data Pre-Processing:** Handled missing values by filling in the mean for `Item_Weight` and the mode for `Outlet_Size`. Applied label encoding to convert categorical variables to numerical values.
+- **Model Training & Evaluation:** Split the dataset into training and testing sets. Trained an XGBoost Regressor model, achieving an R-squared value of 0.64 on training data and 0.59 on testing data.
+
+## Outcome
+The model provided reasonable sales predictions with some room for improvement, demonstrating its potential for enhancing inventory management and customer satisfaction.
+
 
 ## Contact
 
