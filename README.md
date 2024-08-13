@@ -12,7 +12,7 @@ In this portfolio, you’ll find a range of projects demonstrating my skills in 
 - **Data Visualization:** Creation of compelling visualizations to effectively communicate findings and support decision-making.
 - **Predictive Modeling:** Building and evaluating predictive models to forecast trends and outcomes.
 
-Each project in this repository includes detailed descriptions, code, and where applicable, interactive visualizations or dashboards. You can explore the code, analysis, and visualizations to see the methodologies and techniques used to tackle real-world data challenges.
+Each project in this page includes detailed descriptions, code link, and where applicable, interactive visualizations or dashboards. You can explore the code, analysis, and visualizations to see the methodologies and techniques used to tackle real-world data challenges.
 
 ## Key Technologies
 
@@ -23,18 +23,11 @@ I use a variety of tools and technologies in my data analysis work, including:
 - **SQL:** Data extraction and manipulation
 - **Excel:** Advanced formulas, pivot tables, and data visualization
 - **Tableau/Power BI:** Interactive dashboards and data visualizations
+# Project 1: Big Mart Sales Prediction
+[assets/sales-forecasting-metrics-1024x768.jpg]
+This project aims to build a machine learning model to forecast sales for various products across different Big Mart outlets. The retail industry often faces challenges in predicting sales due to the vast array of products and the diverse characteristics of stores. Accurate sales predictions can help businesses manage inventory, optimize supply chain processes, and improve customer satisfaction by ensuring product availability.
 
-##
-
-Feel free to explore the projects listed in this repository. Each project directory contains:
-
-- A brief description of the project and its objectives
-- The dataset(s) used (if applicable)
-- The analysis performed and insights gained
-- Code notebooks or scripts
-- Visualizations or dashboards (if applicable)
-
-To get started, simply navigate to the project directories and check out the accompanying documentation and code.
+This project utilizes a dataset provided by Kaggle, which includes information about products, such as item weight, visibility, type, and maximum retail price (MRP), as well as details about the outlets, like their size, location, and establishment year. The primary goal is to predict the `[Item_Outlet_Sales]`, which is the sales of the products at the respective outlets.
 
 ## Contact
 
