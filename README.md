@@ -4,6 +4,6 @@
 #### Majors: Econometrics, Research methodology, Quantitative methods, Operational research
 Marks: 8.6 CGPA
 
-## BACHELOR OF ARTS IN ECONOMICS – Government Arts College – Coimbatore. 	May 2022
-### Majors: Micro Economics, Macro Economics, Monetary Economics 
+### BACHELOR OF ARTS IN ECONOMICS – Government Arts College – Coimbatore. 	May 2022
+#### Majors: Micro Economics, Macro Economics, Monetary Economics 
 Marks: 7.6 CGPA
