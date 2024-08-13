@@ -1,10 +1,10 @@
 # Welcome to My Data Analysis Portfolio
 
-Hello and welcome to my GitHub portfolio! I’m Kathir, Mater's degree Gradute in Economics and a data analyst with a passion for turning raw data into meaningful insights. This repository showcases a collection of projects that highlight my expertise in data manipulation, statistical analysis, and visualization.
+Hello and welcome to my Portfolio! I’m Kathir, Mater's degree Gradute in Economics and a Data analyst with a passion for turning raw data into meaningful insights. This Page showcases a collection of projects that highlight my expertise in data manipulation, statistical analysis, and visualization.
 
 ## About This Portfolio
 
-In this portfolio, you’ll find a range of projects demonstrating my skills in various aspects of data analysis:
+In this Portfolio, you’ll find a range of projects demonstrating my skills in various aspects of data analysis:
 
 - **Data Cleaning and Transformation:** Projects where I’ve tackled messy datasets, performed data wrangling, and prepared data for analysis.
 - **Exploratory Data Analysis (EDA):** In-depth explorations to uncover patterns, trends, and key insights.
@@ -25,13 +25,8 @@ I use a variety of tools and technologies in my data analysis work, including:
 - **Tableau/Power BI:** Interactive dashboards and data visualizations
 
   
-## Project 1: Big Mart Sales Prediction
+## Project 1: Big Mart Sales Prediction 
 ![](assets/sales-forecasting-metrics-1024x768.jpg)
-
-
-# Big Mart Sales Prediction
-
-This project aims to build a machine learning model to forecast sales for various products across different Big Mart outlets. Accurate sales predictions can help businesses manage inventory, optimize supply chain processes, and improve customer satisfaction by ensuring product availability.
 
 ## Project Overview
 Developed a machine learning model to predict sales for various products across Big Mart outlets, using XGBoost Regressor to address challenges in the retail industry such as inventory management and supply chain optimization.
@@ -47,6 +42,8 @@ Utilized Kaggle's Big Mart Sales dataset, which includes product and outlet deta
 
 ## Outcome
 The model provided reasonable sales predictions with some room for improvement, demonstrating its potential for enhancing inventory management and customer satisfaction.
+
+#### For a more indepth breakdown check out my [Github Page]([https://www.linkedin.com/in/kathir-jm/](https://github.com/Kathirrodri17/Portfolio-Projects/edit/main/Bigmart%20sales%20prediction/README.md))
 
 
 ## Contact
