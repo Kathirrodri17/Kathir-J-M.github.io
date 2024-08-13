@@ -43,7 +43,7 @@ Utilized Kaggle's Big Mart Sales dataset, which includes product and outlet deta
 ## Outcome
 The model provided reasonable sales predictions with some room for improvement, demonstrating its potential for enhancing inventory management and customer satisfaction.
 
-#### For a more indepth breakdown check out my [Github Page]([https://www.linkedin.com/in/kathir-jm/](https://github.com/Kathirrodri17/Portfolio-Projects/edit/main/Bigmart%20sales%20prediction/README.md))
+#### For a more indepth breakdown check out my [Github Page](https://github.com/Kathirrodri17/Portfolio-Projects/edit/main/Bigmart%20sales%20prediction/README.md)
 
 
 ## Contact
