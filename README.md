@@ -88,6 +88,65 @@ This project provides a comprehensive exploratory data analysis of COVID-19, off
 
 For an interactive exploration of the data, visit the COVID-19 Dashboard.
 
+## Project 3: EPL Match Winner Prediction for 2024-25 Season
+![](assets/skysports-premier-league-predictions_6009362.jpg)
+
+This Project aims to predict the winners of English Premier League (EPL) matches for the 2024-25 season by leveraging historical data from the 2022-2024 seasons to develop a Machine Learning model to predict. The prediction model focuses on determining match winners using various match-related features such as team performance, statistics, and match conditions.
+
+## Project Overview
+Developed a prediction model to forecast EPL match outcomes, particularly the winners, using historical data from the 2022-2024 seasons. The model assists fans, analysts, and stakeholders in making informed decisions about upcoming matches.
+
+## Data Scraping
+Data was scraped from the English Premier League using HTML extraction from Fbref. The data collection process was carried out in two phases:
+
+1. **Initial Data Scraping:** 
+   - Objective: Scrape data for a single EPL team to develop and test the data extraction script.
+   - Details: Gathered match data, team statistics, and performance metrics for one team to validate the extraction process.
+   - Example: Scraped data for Manchester City to test the script.
+
+2. **Iterative Data Collection:** 
+   - Objective: Expand scraping to cover all 20 EPL teams over two seasons (2022-2024).
+   - Details: Automated the scraping process to loop through all teams, ensuring comprehensive data collection.
+   - Implementation: Introduced a time delay between requests to avoid being blocked by the website.
+
+   Tools used: Beautiful Soup and Pandas for data extraction and transformation into a Pandas DataFrame.
+
+## Data Processing
+- **Data Cleaning:** Cleaned and pre-processed the raw data using Pandas to ensure consistency and accuracy.
+- **Creating Predictors:** Developed predictor variables for model training.
+
+## Model Building
+The prediction model was built using Scikit-Learn with the following classifiers:
+- **Decision Tree Classifier**
+- **Random Forest Classifier**
+
+The dataset was split into:
+- **Training Set:** Data before 01.01.2024
+- **Test Set:** Data after 01.01.2024
+
+Initial Results:
+- **Overall Match Outcome Prediction Accuracy:** 60%
+- **Specific Match Winner Prediction Accuracy:** 47%
+
+## Model Improvement
+To improve prediction accuracy, the following steps were taken:
+- **Error Analysis:** Identified model errors to guide improvements.
+- **Data Enhancement:** Cleaned the data further and added new predictor variables.
+- **Model Refinement:** Adjusted the model to enhance performance.
+
+Final Results:
+- **Specific Match Winner Prediction Accuracy:** 60%
+
+## Future Work
+- Explore additional machine learning algorithms to achieve better prediction accuracy.
+- Integrate more detailed player and team statistics.
+- Incorporate real-time data updates for more accurate predictions.
+
+## Acknowledgements
+- Special thanks to FBref for providing the dataset.
+- Appreciation to the Scikit-Learn community for their invaluable machine learning tools.
+
+
 ## Contact
 
 If you have any questions or feedback, don’t hesitate to reach out. You can connect with me on [LinkedIn](https://www.linkedin.com/in/kathir-jm/) for more about my professional journey and other work.
