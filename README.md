@@ -1,7 +1,7 @@
 # Welcome to My Data Analysis Portfolio 
 
 Hello and welcome to my Portfolio! I’m Kathir, Mater's degree Gradute in Economics and a Data analyst with a talent for turning raw data into compelling stories and meaningful insights. This Page showcases a collection of projects that highlight my expertise in data manipulation, statistical analysis, and visualization.
-## [Download CV](https://github.com/user-attachments/files/16600631/Data.Analyst.CV.pdf)
+### [Download CV](https://github.com/user-attachments/files/16600631/Data.Analyst.CV.pdf)
 
 ## Contents
 - [About This Portfolio](#about-this-portfolio)
